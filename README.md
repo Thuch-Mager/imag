@@ -1,11 +1,10 @@
 
-<img src='./src/assets/images/logo.jpg' alt='' height='200px' />
 
 # iMag project
 
-  <p align="center">
-    iMage a platforum for Helping Farmers increase production and access opportunities to thrive.
-    <a href="https://amal-v69u.onrender.com/">Website</a>
+<img src='./src/assets/images/logo2.png' alt='' height='250px' />
+  <p align="cente">
+    <a href="https://imag.onrender.com/">Website</a>
     ·
     <a href="hhttps://github.com/Thuch-Mager/imag.git/issues">Issues</a>
     ·
@@ -37,7 +36,7 @@ Before we install the project, Here is what you need to be able to run Amal:
 1. Clone the project
 
 ```bash
-    git clone https://github.com/Amalsouthsudan23/amal.git
+    git clone https://github.com/Thuch-Mager/imag
 ```
 
 2. Navigate to the project

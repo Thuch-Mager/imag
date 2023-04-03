@@ -9,11 +9,12 @@ export const useGlobalContext = () => useContext(apiContext)
 
 export default function GlobalContextProvider({children}) {
 
-  const [openModal, setOpenModal] = useState(null)
+  const [profile, setProfile] = useState(null);
+  const [openModal, setOpenModal] = useState(null);
 
 
   return (
-    <apiContext.Provider value={{ openModal, setOpenModal }}>
+    <apiContext.Provider value={{ openModal, profile, setOpenModal, setProfile }}>
       {children}
     </apiContext.Provider>
   )
